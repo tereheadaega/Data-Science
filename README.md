@@ -1,2 +1,3 @@
 # Data-Analyst
-This repository contains 
+This repository contains projects, representing my Data-Analyst scills.
+
