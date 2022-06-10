@@ -7,6 +7,7 @@ Here are represented skills in using such libraries as:
 * MatPlotlib
 * NumPy
 
+
 ## Topic:
 A preliminary analysis of the use of tariffs on a sample of customers was carried out, analyzed the behavior of customers when using the services of the operator and
 recommended optimal sets of services for users. 
