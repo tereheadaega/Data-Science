@@ -1,6 +1,7 @@
 # **Research of reliability of bank customers** 
 
 This project is representing my skills in product analytics.
+Included using Mystem functionality for decoding of credit purposes
 
 
 ## Topic:
